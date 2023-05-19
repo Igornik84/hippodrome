@@ -1,0 +1,66 @@
+2023-05-19 17:46:53.354 [main] INFO  Main - Начало скачек. Количество участников:{7}
+2023-05-19 17:47:13.686 [main] INFO  Main - Окончание скачек. Победитель:Вишня!
+2023-05-19 17:56:38.968 [main] ERROR Horse - Horse: Name is null
+2023-05-19 17:56:39.265 [main] ERROR Horse - Horse: Name is null
+2023-05-19 17:56:39.382 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 17:56:39.393 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 17:56:39.398 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 17:56:39.404 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 17:56:39.409 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 17:56:39.418 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 17:56:39.468 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 17:56:39.471 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 17:56:39.489 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 17:56:39.497 [main] ERROR Hippodrome - Hippodrome: Horses list is null
+2023-05-19 17:56:39.500 [main] ERROR Hippodrome - Hippodrome: Horses list is null
+2023-05-19 17:56:39.503 [main] ERROR Hippodrome - Hippodrome: Horses list is empty
+2023-05-19 17:56:39.561 [main] ERROR Hippodrome - Hippodrome: Horses list is empty
+2023-05-19 17:58:50.387 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:00:54.934 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:05:26.293 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:05:55.005 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:14:13.424 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:23:10.072 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:33:06.137 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:34:00.668 [main] ERROR Horse - Horse: Name is null
+2023-05-19 18:34:00.879 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:34:00.882 [main] ERROR Horse - Horse: Name is null
+2023-05-19 18:34:01.001 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 18:34:01.016 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 18:34:01.022 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 18:34:01.027 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 18:34:01.033 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 18:34:01.043 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:34:01.046 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:34:01.063 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 18:34:01.073 [main] ERROR Hippodrome - Hippodrome: Horses list is null
+2023-05-19 18:34:01.087 [main] ERROR Hippodrome - Hippodrome: Horses list is null
+2023-05-19 18:34:01.092 [main] ERROR Hippodrome - Hippodrome: Horses list is empty
+2023-05-19 18:34:01.158 [main] ERROR Hippodrome - Hippodrome: Horses list is empty
+2023-05-19 18:36:24.751 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 19:13:08.576 [main] ERROR Horse - Horse: Name is null
+2023-05-19 19:13:08.593 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 19:13:08.598 [main] ERROR Horse - Horse: Name is null
+2023-05-19 19:13:08.740 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 19:13:08.756 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 19:13:08.761 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 19:13:08.769 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 19:13:08.775 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 19:13:08.787 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 19:13:08.795 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 19:13:08.804 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 19:13:08.927 [main] ERROR Hippodrome - Hippodrome: Horses list is null
+2023-05-19 19:13:08.934 [main] ERROR Hippodrome - Hippodrome: Horses list is null
+2023-05-19 19:13:08.937 [main] ERROR Hippodrome - Hippodrome: Horses list is empty
+2023-05-19 19:13:08.968 [main] ERROR Hippodrome - Hippodrome: Horses list is empty
+2023-05-19 20:10:56.335 [main] ERROR Horse - Horse: Name is null
+2023-05-19 20:10:56.369 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 20:10:56.374 [main] ERROR Horse - Horse: Name is null
+2023-05-19 20:10:56.516 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 20:10:56.529 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 20:10:56.536 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 20:10:56.547 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 20:10:56.553 [main] ERROR Horse - Horse: Name is blank
+2023-05-19 20:10:56.566 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 20:10:56.578 [main] ERROR Horse - Horse: Speed is negative
+2023-05-19 20:10:56.605 [main] ERROR Horse - Horse: Speed is negative
